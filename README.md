@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @srikanthkosana
+- 🧑‍🎓 Masters in Computers and Information Sciences, Univ of South Alabama, GO JAGS!!!
 - 👀 I’m interested in learning new tools, tech, cloud computing, ML, AI, different programming languages.
 - 🌱 I’m currently learning Angular and MDBootstrap.
 - 💞️ I’m looking to collaborate on .net core, Angular, Kafka.
